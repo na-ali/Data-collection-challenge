@@ -9,6 +9,8 @@ Dependencies
 Ensure you have the following libraries installed:
 
 BeautifulSoup
+
 Pandas
+
 Splinter (for automated browsing)
 
